@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://thomas62970.github.io/lachouetteagence
