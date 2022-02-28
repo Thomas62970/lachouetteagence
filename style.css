@@ -83,7 +83,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture_paper.jpg");
     background-size: 280px 280px;
 }
 
@@ -782,15 +782,15 @@ h1 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots_bg.jpg");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines_h2_bg.jpg");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la_chouette_agence_b_3aREz.jpg");
 }
 
 .bg-presentation {
